@@ -10,39 +10,24 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
-
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
-
 ![Natural Language Processing](https://img.shields.io/badge/NLP-Natural_Language_Processing-00BFA5?style=for-the-badge)
-
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
-
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
-
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-7B68EE?style=for-the-badge)
-
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-8A2BE2?style=for-the-badge)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=likithareddy1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
